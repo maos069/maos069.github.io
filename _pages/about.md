@@ -57,7 +57,7 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2023.06 - 2023.09*, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
 - *2022.07 - 2023.08*, [Amazon China](https://www.meituan.com/en-US/about-us), China.
 
-# ⚙️ Skills
+# 🔧 Skills
 - *Languages*    English (Bilingual, IELTS 7.5), French (Fluent, DELF B2)
 - *Programming Languages*    Java, Python, Golang, MATLAB, SQL 
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
