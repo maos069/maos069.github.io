@@ -22,7 +22,7 @@ I am a third year graduate student from Xi'an Jiaotong University.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-If you want to find more information about me, you can find my [CV]("..\files\MAO SHUAI.pdf") here.
+If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -44,9 +44,9 @@ If you want to find more information about me, you can find my [CV]("..\files\MA
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2022 and 2023* Zhen Jiang Scholarship (15 students in total). 
+- *2022 and 2023* [Chiang Chen Scholarship](http://www.ccicf.org.hk/en/scholarships/fellowship_b_06/) (15 students in total). 
 - *2021.06* Excellent Graduate, Excellent Student of Xi’an Jiaotong University. 
-- *2018 and 2019* Cyrus Tang Scholarship (40 students in total). 
+- *2018 and 2019* [Cyrus Tang Scholarship](https://tangfoundation.org/cyrus-tang-foundation/ct-scholarship/introduction/) (40 students in total). 
 - *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station. 
 
 # 📖 Educations
