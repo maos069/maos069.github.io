@@ -47,12 +47,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at Xi’an Jiaotong University. 
+- *2019.09 - 2024.06 (now)*, French engineer at CentraleSupelec (Paris Saclay University now). 
+- *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI (Paris Saclay University now).
+- *2017.09 - 2021.06*, BEng Information Engineering at Xi’an Jiaotong University.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - 2023.09*, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
+- *2022.07 - 2023.08*, [Amazon China](https://www.meituan.com/en-US/about-us), China.
