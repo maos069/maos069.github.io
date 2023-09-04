@@ -19,22 +19,29 @@ redirect_from:
 Nice to meet you here!
 I am a third year graduate student from Xi'an Jiaotong University.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[High-quality and high-diversity conditionally generative ghost imaging based on denoising diffusion probabilistic model](../files/High-quality%20and%20high-diversity%20conditionally%20generative%20ghost%20imaging%20based%20on%20denoising%20diffusion%20probabilistic%20model.pdf)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Shuai Mao**, Yuchen He, Hui Chen, et al.  **Optics Express**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Translation-Equivalence-Based Unsupervised Ghost Imaging](../files/Translation-Equivalence-Based%20Unsupervised%20Ghost%20Imaging.pdf)
+**Shuai Mao**, Yuchen He, Jianming Yu, et al.  **IEEE International Conference of Information and Communication Technology**
+
+[Fully-Connected-Based Adaptive Speckles Optimization Method for Ghost Imaging](../files/Fully-Connected-Based_Adaptive_Speckles_Optimization_Method_for_Ghost_Imaging.pdf)
+
+Zhou Yu, **Shuai Mao**, Yuchen He, et al.  **IEEE Photonics Technology Letters**
+
+[Optimizing speckles for dynamic objects using genetic algorithm in ghost imaging](../files/Optimizing%20speckles%20for%20dynamic%20objects%20using%20genetic.pdf)
+
+Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
