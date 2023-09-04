@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 <span class='anchor' id='about-me'></span>
 Nice to meet you here! Hope to be friends with you.
 
@@ -58,7 +57,7 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2023.06 - 2023.09*, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
 - *2022.07 - 2023.08*, [Amazon China](https://www.meituan.com/en-US/about-us), China.
 
-# ⚙️ Skills
+# 💭 Skills
 - *Languages*    English (Bilingual, IELTS 7.5), French (Fluent, DELF B2)
 - *Programming Languages*    Java, Python, Golang, MATLAB, SQL 
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
