@@ -64,4 +64,4 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
 
 # 💭 More about me
-- *Favoriate authors* Juan Li(China), Fredrik Backman(Sweden), Marc Levy(France), Hiroshi Yuuki(Japan), Ito Ogawa(Japan)
+- *Favoriate authors*  Juan Li (China), Fredrik Backman (Sweden), Marc Levy (France), Hiroshi Yuuki (Japan), Ito Ogawa (Japan)
