@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Nice to meet you here! Hope to be friends with you.
 
-I am a third year graduate student from Xi'an Jiaotong University.
+My name is Shuai MAO. I'm currently a third-year graduate student at Xi'an Jiaotong University, on track to graduate in the summer of 2024. I previously obtained my bachelor's degree in Information Engineering from Xi'an Jiaotong University in 2021. During my sophomore year, I decided to broaden my cultural horizons and expand my social network. Consequently, I enrolled in a double degree program, which took me to CentraleSupélec from 2019 to 2021. Curriculum at CentraleSupélec emphasized the fusion of theory and practice. While studying the course, I developed an intense passion for mathematics. This newfound interest served as the catalyst for me to seize the opportunity to advance my studies in mathematics at University of Paris XI. To accommodate this additional academic pursuit, I carefully managed my time, attending regular classes during the day and dedicating my evenings to mastering mathematics. My persistence and hard work ultimately paid off when I achieved high scores in my CentraleSupélec courses and successfully passed the challenging mathematics examinations. Although this period was undeniably demanding, it brought me immense satisfaction and joy in the pursuit of my academic goals.
 
 If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
 
