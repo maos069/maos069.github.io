@@ -43,8 +43,10 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022 and 2023* Zhen Jiang Scholarship (15 students in total). 
+- *2021.06* Excellent Graduate, Excellent Student of Xi’an Jiaotong University. 
+- *2018 and 2019* Cyrus Tang Scholarship (40 students in total). 
+- *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station. 
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, MEng Communication and Information System at Xi’an Jiaotong University. 
