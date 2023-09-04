@@ -56,8 +56,8 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
 # 💻 Internships
-- *2023.06 - 2023.09*, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
-- *2022.07 - 2023.08*, [Amazon China](https://www.meituan.com/en-US/about-us), China.
+- *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
+- *2022.07 - 2023.08*, Hardware Reliability Intern, [Amazon China](https://www.aboutamazon.com/what-we-do/devices-services), China.
 
 # 🔧 Skills
 - *Languages*    English (Bilingual, IELTS 7.5), French (Fluent, DELF B2)
