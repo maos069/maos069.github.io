@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Nice to meet you here!
+Nice to meet you here! Hope to be friends with you.
+
 I am a third year graduate student from Xi'an Jiaotong University.
 
 If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
@@ -49,7 +50,7 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm). 
-- *2019.09 - 2024.06 (now)*, French engineer at [CentraleSupelec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now). 
+- *2019.09 - 2024.06*, French engineer at [CentraleSupelec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now). 
 - *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
@@ -60,3 +61,8 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 # 💻 Internships
 - *2023.06 - 2023.09*, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
 - *2022.07 - 2023.08*, [Amazon China](https://www.meituan.com/en-US/about-us), China.
+
+# 🧰 Skills
+- *Languages*    English (Bilingual, IELTS 7.5), French (Fluent, DELF B2)
+- *Programming Languages*    Java, Python, Golang, MATLAB, SQL 
+- *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
