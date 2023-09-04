@@ -63,5 +63,5 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *Programming Languages*    Java, Python, Golang, MATLAB, SQL 
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
 
-# 💭 More about me
+# 💭 More About Me
 - *Favoriate authors*  Juan Li (China), Fredrik Backman (Sweden), Marc Levy (France), Hiroshi Yuuki (Japan), Ito Ogawa (Japan)
