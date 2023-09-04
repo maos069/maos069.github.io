@@ -20,14 +20,11 @@ Nice to meet you here!
 I am a third year graduate student from Xi'an Jiaotong University.
 
 If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-
 [High-quality and high-diversity conditionally generative ghost imaging based on denoising diffusion probabilistic model](../files/High-quality%20and%20high-diversity%20conditionally%20generative%20ghost%20imaging%20based%20on%20denoising%20diffusion%20probabilistic%20model.pdf)
 
 **Shuai Mao**, Yuchen He, Hui Chen, et al.  **Optics Express**
