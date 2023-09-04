@@ -54,10 +54,6 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
 - *2023.06 - 2023.09*, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
 - *2022.07 - 2023.08*, [Amazon China](https://www.meituan.com/en-US/about-us), China.
@@ -66,3 +62,6 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *Languages*    English (Bilingual, IELTS 7.5), French (Fluent, DELF B2)
 - *Programming Languages*    Java, Python, Golang, MATLAB, SQL 
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
+
+# 💭 More about me
+- *Favoriate authors* Juan Li(China), Fredrik Backman(Sweden), Marc Levy(France), Hiroshi Yuuki(Japan), Ito Ogawa(Japan)
