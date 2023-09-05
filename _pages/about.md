@@ -57,6 +57,7 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
+
 During my internship as a Java Developer at Meituan, I played a pivotal role in driving the growth and innovation of the back-end business while concurrently contributing to network security enhancement. Here's an overview of my key responsibilities and accomplishments:
 
 1. Interface Risk Assessment: I spearheaded the development of an interface risk assessment system aimed at evaluating network interface vulnerability to crawler attacks. This initiative involved several key achievements: conducting comprehensive curve similarity analysis to identify recurring traffic patterns, adopting the Pearson correlation as the core of our security assessment model, establishing a seamless online-to-offline data integration process for daily risk calculations, and scaling the system to assess the security of over 2,000 interfaces, effectively reducing the risk of malicious web crawler attacks.
@@ -66,6 +67,7 @@ During my internship as a Java Developer at Meituan, I played a pivotal role in 
 3. Store hot list evaluation：To bolster our system's promotion capabilities, I crafted RPC and HTTP interfaces for hot list evaluation. I leveraged CompletableFuture for asynchronous processing of Excel data streams, facilitating the evaluation of nearly 20,000 stores efficiently. Concurrently, I introduced a secondary category field, completed the transformation of response interfaces and databases, and enabled precise store classification.
 
 - *2022.07 - 2023.08*, Hardware Reliability Intern, [Amazon China](https://www.aboutamazon.com/what-we-do/devices-services), China.
+
 During my internship at Amazon, I had the chance to dive into the important world of hardware reliability. This field is all about making sure products are not only well-designed but also safe and long-lasting for users.
 
 My internship started with research on common low-power chargers available in the market. To get a better grasp of what's out there, I analyzed twelve chargers from four well-known brands. My main aim was to carefully assess how reliable these chargers were. This included investigating their ultrasonic welding methods, their thickness, efforts to make them more compact, their handling of electrical aspects like capacitance, and their safety features such as fuses.
