@@ -27,11 +27,11 @@ I am currently eagerly anticipating opportunities for PhD positions in 2024, par
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-[High-quality and high-diversity conditionally generative ghost imaging based on denoising diffusion probabilistic model](../files/High-quality%20and%20high-diversity%20conditionally%20generative%20ghost%20imaging%20based%20on%20denoising%20diffusion%20probabilistic%20model.pdf)
+[High-quality and high-diversity conditionally generative ghost imaging based on denoising diffusion probabilistic model](../files/High-quality_and_high-diversity_conditionally_generative_ghost_imaging_based_on_denoising_diffusion_probabilistic_model.pdf)
 
 **Shuai Mao**, Yuchen He, Hui Chen, et al.  **Optics Express**
 
-[Translation-Equivalence-Based Unsupervised Ghost Imaging](../files/Translation-Equivalence-Based%20Unsupervised%20Ghost%20Imaging.pdf)
+[Translation-Equivalence-Based Unsupervised Ghost Imaging](../files/Translation-Equivalence-Based_Unsupervised_Ghost_Imaging.pdf)
 
 **Shuai Mao**, Yuchen He, Jianming Yu, et al.  **IEEE International Conference of Information and Communication Technology**
 
@@ -39,7 +39,7 @@ I am currently eagerly anticipating opportunities for PhD positions in 2024, par
 
 Zhou Yu, **Shuai Mao**, Yuchen He, et al.  **IEEE Photonics Technology Letters**
 
-[Optimizing speckles for dynamic objects using genetic algorithm in ghost imaging](../files/Optimizing%20speckles%20for%20dynamic%20objects%20using%20genetic.pdf)
+[Optimizing speckles for dynamic objects using genetic algorithm in ghost imaging](../files/Optimizing_speckles_for_dynamic_objects_using_genetic_algorithm_in_ghost_imaging.pdf)
 
 Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 
@@ -50,8 +50,8 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station. 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript%20of%20postgraduate%20student.pdf). 
-- *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript%20of%20centralesupelec.pdf). 
+- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript_of_postgraduate_student.pdf). 
+- *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript_of_centralesupelec.pdf). 
 - *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
