@@ -50,8 +50,8 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station. 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm). 
-- *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now). 
+- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript%20of%20postgraduate%20student.pdf) 
+- *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript%20of%20centralesupelec.pdf). 
 - *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
