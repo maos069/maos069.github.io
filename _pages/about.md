@@ -56,7 +56,7 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
 # 💻 Internships
-- *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
+## *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
 
 During my internship as a Java Developer at Meituan, I played a pivotal role in driving the growth and innovation of the back-end business while concurrently contributing to network security enhancement. Here's an overview of my key responsibilities and accomplishments:
 
@@ -66,7 +66,7 @@ During my internship as a Java Developer at Meituan, I played a pivotal role in 
 
 3. Store hot list evaluation：To bolster our system's promotion capabilities, I crafted RPC and HTTP interfaces for hot list evaluation. I leveraged CompletableFuture for asynchronous processing of Excel data streams, facilitating the evaluation of nearly 20,000 stores efficiently. Concurrently, I introduced a secondary category field, completed the transformation of response interfaces and databases, and enabled precise store classification.
 
-- *2022.07 - 2023.08*, Hardware Reliability Intern, [Amazon China](https://www.aboutamazon.com/what-we-do/devices-services), China.
+## *2022.07 - 2023.08*, Hardware Reliability Intern, [Amazon China](https://www.aboutamazon.com/what-we-do/devices-services), China.
 
 During my internship at Amazon, I had the chance to dive into the important world of hardware reliability. This field is all about making sure products are not only well-designed but also safe and long-lasting for users.
 
