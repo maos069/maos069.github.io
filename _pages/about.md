@@ -57,6 +57,11 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
+During my internship as a Java Developer at Meituan, I played a pivotal role in driving the growth and innovation of the back-end business while concurrently contributing to network security enhancement. Here's an overview of my key responsibilities and accomplishments:
+1. Interface Risk Assessment: I spearheaded the development of an interface risk assessment system aimed at evaluating network interface vulnerability to crawler attacks. This initiative involved several key achievements: conducting comprehensive curve similarity analysis to identify recurring traffic patterns, adopting the Pearson correlation as the core of our security assessment model, establishing a seamless online-to-offline data integration process for daily risk calculations, and scaling the system to assess the security of over 2,000 interfaces, effectively reducing the risk of malicious web crawler attacks.
+2. JSON Parsing and Performance Analysis: I delved deeply into the realm of JSON parsing techniques and harnessed the potent capabilities of Java Microbenchmarking Harness (JMH) for conducting comprehensive performance analyses. Through testing, we meticulously evaluated the parsing speed across various methods for JSON strings of differing sizes and nesting levels. This exploration not only broadened our comprehension of efficient data processing but also yielded invaluable insights crucial for optimizing our systems to attain peak performance.
+3. Store hot list evaluation：To bolster our system's promotion capabilities, I crafted RPC and HTTP interfaces for hot list evaluation. I leveraged CompletableFuture for asynchronous processing of Excel data streams, facilitating the evaluation of nearly 20,000 stores efficiently. Concurrently, I introduced a secondary category field, completed the transformation of response interfaces and databases, and enabled precise store classification.
+
 - *2022.07 - 2023.08*, Hardware Reliability Intern, [Amazon China](https://www.aboutamazon.com/what-we-do/devices-services), China.
 
 # 🔧 Skills
