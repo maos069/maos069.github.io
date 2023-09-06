@@ -36,17 +36,25 @@ I am currently eagerly anticipating opportunities for PhD positions in 2024, par
 
 **Shuai Mao**, Yuchen He, Hui Chen, et al.  **Optics Express**
 
+In this paper, I pioneered the use of diffusion models in ghost imaging, particularly focusing on the undersampled scenario where a set of bucket signals can correspond to multiple potentially correct images. Traditional deterministic deep learning models are limited to one-to-one mapping in such cases. To address this challenge, I skillfully incorporated bucket signals as prior information for the image distribution. This approach led to the creation of an innovative ghost imaging reconstruction algorithm capable of learning the conditional probability distribution of the image, taking into account the known bucket signals.
+
 [Translation-Equivalence-Based Unsupervised Ghost Imaging](../files/Translation-Equivalence-Based_Unsupervised_Ghost_Imaging.pdf)
 
 **Shuai Mao**, Yuchen He, Jianming Yu, et al.  **IEEE International Conference of Information and Communication Technology**
+
+In this paper, I investigated the translation equivalence property and devised an unsupervised ghost imaging algorithm. This innovation allows for efficient image reconstruction without requiring labels.
 
 [Fully-Connected-Based Adaptive Speckles Optimization Method for Ghost Imaging](../files/Fully-Connected-Based_Adaptive_Speckles_Optimization_Method_for_Ghost_Imaging.pdf)
 
 Zhou Yu, **Shuai Mao**, Yuchen He, et al.  **IEEE Photonics Technology Letters**
 
+In this paper, I introduced an innovative approach where measurement speckles are treated as fully connected layer parameters without bias. Utilizing end-to-end network learning, the measurement speckles gain prior information about the targets. Extracting parameters from the fully connected layer as the measurement speckles enables high-quality image reconstruction even at lower sampling rates.
+
 [Optimizing speckles for dynamic objects using genetic algorithm in ghost imaging](../files/Optimizing_speckles_for_dynamic_objects_using_genetic_algorithm_in_ghost_imaging.pdf)
 
 Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
+
+In this paper, I conducted an in-depth exploration of the intricate relationship between speckles and measurement, employing genetic algorithms to select adaptive speckles for dynamic targets.
  
 # 💻 Internships
 ## *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
