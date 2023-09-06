@@ -21,7 +21,7 @@ My name is Shuai MAO. I'm currently a third-year graduate student at [Xi’an Ji
 
 My current research centers around ghost imaging, which is also referred to as quantum imaging or correlated imaging. Unlike traditional first-order-based imaging algorithms, this innovative imaging technique relies on second-order correlations within the light field, specifically the fluctuations in intensity. While it offers advantages such as being lensless, robust against disturbances, and non-localized in nature, the current approach demands a substantial number of measurements, thus restricting its practical utility. My research efforts are primarily directed toward optimizing ghost imaging algorithms. Throughout this research journey, I have not only developed a profound understanding of ghost imaging but have also acquired knowledge in areas such as image processing, compressed sensing, optimization techniques, inverse problems, and deep learning. Among these, deep learning has emerged as my most powerful tool in advancing the field. On one hand, I am astounded by its remarkable effectiveness. On the other hand, I also recognize the importance of enhancing our comprehension of the fundamental nature of deep learning to ensure that its power does not inadvertently harm people.
 
-I am currently eagerly anticipating opportunities for PhD positions in 2024, particularly in the fields of image processing, computer vision, Explainable AI (XAI), and responsible AI. If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
+I am currently eagerly anticipating opportunities for PhD positions in 2024, particularly in the fields of image processing, computer vision, Explainable AI (XAI), and responsible AI. If you want to find more information about me, you can find my [CV](../files/MAO_SHUAI.pdf) here.
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript_of_postgraduate_student.pdf). 
@@ -81,4 +81,5 @@ When I look back on my time at Amazon, I take immense pride in being part of a c
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
 
 # 💭 More About Me
+
 - *Favoriate authors*  Juan Li (China), Fredrik Backman (Sweden), Marc Levy (France), Hiroshi Yuuki (Japan), Ito Ogawa (Japan)
