@@ -23,6 +23,11 @@ My current research centers around ghost imaging, which is also referred to as q
 
 I am currently eagerly anticipating opportunities for PhD positions in 2024, particularly in the fields of image processing, computer vision, Explainable AI (XAI), and responsible AI. If you want to find more information about me, you can find my [CV](../files/MAO SHUAI.pdf) here.
 
+# 📖 Educations
+- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript_of_postgraduate_student.pdf). 
+- *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript_of_centralesupelec.pdf). 
+- *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
+- *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -48,12 +53,6 @@ Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
 - *2021.06* Excellent Graduate, Excellent Student of Xi’an Jiaotong University. 
 - *2018 and 2019* [Cyrus Tang Scholarship](https://tangfoundation.org/cyrus-tang-foundation/ct-scholarship/introduction/) (40 students in total). 
 - *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station. 
-
-# 📖 Educations
-- *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript_of_postgraduate_student.pdf). 
-- *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript_of_centralesupelec.pdf). 
-- *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
-- *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
 # 💻 Internships
 ## *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
