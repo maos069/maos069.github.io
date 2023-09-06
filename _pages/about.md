@@ -47,13 +47,7 @@ Zhou Yu, **Shuai Mao**, Yuchen He, et al.  **IEEE Photonics Technology Letters**
 [Optimizing speckles for dynamic objects using genetic algorithm in ghost imaging](../files/Optimizing_speckles_for_dynamic_objects_using_genetic_algorithm_in_ghost_imaging.pdf)
 
 Yuchen He, **Shuai Mao**, Juan Chen, et al.  **AIP Advances**
-
-# 🎖 Honors and Awards
-- *2022 and 2023* [Chiang Chen Scholarship](http://www.ccicf.org.hk/en/scholarships/fellowship_b_06/) (15 students in total). 
-- *2021.06* Excellent Graduate, Excellent Student of Xi’an Jiaotong University. 
-- *2018 and 2019* [Cyrus Tang Scholarship](https://tangfoundation.org/cyrus-tang-foundation/ct-scholarship/introduction/) (40 students in total). 
-- *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station. 
-
+ 
 # 💻 Internships
 ## *2023.06 - 2023.09*, Backend Developper Summer Intern, [Mei Tuan](https://www.meituan.com/en-US/about-us), China.
 
@@ -75,11 +69,26 @@ In my role, I actively promoted teamwork within the group. I shared my research 
 
 When I look back on my time at Amazon, I take immense pride in being part of a company that places such a strong emphasis on creating reliable and safe products. This experience reinforced my belief in the importance of designing products that are user-friendly and safe for everyone. It continues to motivate me to use my skills to be accountable to users and ensure their safety.
 
+# 🎖 Honors and Awards
+- *2022 and 2023* [Chiang Chen Scholarship](http://www.ccicf.org.hk/en/scholarships/fellowship_b_06/) (15 students in total). 
+- *2021.06* Excellent Graduate, Excellent Student of Xi’an Jiaotong University. 
+- *2018 and 2019* [Cyrus Tang Scholarship](https://tangfoundation.org/cyrus-tang-foundation/ct-scholarship/introduction/) (40 students in total). 
+- *2018.01* Excellent Volunteer of Blood Donation Service in Xi'an Central Blood Station.
+
 # 🔧 Skills
 - *Languages*    English (Bilingual, IELTS 7.5), French (Fluent, DELF B2)
 - *Programming Languages*    Java, Python, Golang, MATLAB, SQL 
 - *Software/Tools*    LaTeX, Excel, Word, Powerpoint, Git, Spring, Pytorch
 
 # 💭 More About Me
+Before entering college, I lived in a small town and devoted the majority of my time to preparing for the highly competitive college entrance examination, which attracted nearly one million candidates from my province each year. Fortunately, I achieved outstanding scores and secured admission to a prestigious university in China, marking my initial step into a broader world.
 
-- *Favoriate authors*  Juan Li (China), Fredrik Backman (Sweden), Marc Levy (France), Hiroshi Yuuki (Japan), Ito Ogawa (Japan)
+Over the past six years, serendipity has guided me through diverse fields, including communications, mathematics, electromagnetic fields, ghost imaging, and computers. I've been fortunate to partake in both hardware and software internships. While specialized knowledge may fade with time, my unwavering commitment to excellence remains a constant in my current endeavors.
+
+Please don't perceive my diverse interests as a lack of direction; rather, they reflect my fervent desire to explore and acquire knowledge. Each path I traverse presents a new adventure, and genuine experiences are essential for genuine understanding. As such, I wholeheartedly embrace opportunities to broaden my horizons and deepen my knowledge, one step at a time.
+
+I readily embrace starting from scratch and possess the ability to learn quickly. Each new experience molds me into an improved version of myself.
+
+In addition to the experiences mentioned above, I served as a teaching assistant for digital logic circuits from January to June 2022. In this role, I graded coursework, provided constructive feedback to students, and conducted exercise classes to address their questions and offer detailed explanations for homework. I also supervised course attendance, fostering a positive learning environment and offering support. Additionally, I worked as a student assistant in the school's Employment and Entrepreneurship Center, where I welcomed students seeking consultation, assisted teachers with daily tasks, and aided in organizing company presentations.
+
+In my leisure time, I take pleasure in immersing myself in books authored by various writers. Their stories possess the remarkable ability to transport me to different worlds. Some of my favorite authors include Juan Li from China, Fredrik Backman from Sweden, Marc Levy from France, Hiroshi Yuuki from Japan, and Ito Ogawa, also from Japan. If you're interested, I'd be delighted to recommend some of their books to you as well.
