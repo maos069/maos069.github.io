@@ -26,7 +26,7 @@ I am currently eagerly anticipating opportunities for PhD positions in 2024, par
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, MEng Communication and Information System at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm), [transcript](../files/transcript_of_postgraduate_student.pdf). 
 - *2019.09 - 2024.06*, French engineer at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript_of_centralesupelec.pdf). 
-- *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now).
+- *2019.10 - 2020.06*, BSc Mathematics at University of Paris XI ([Paris Saclay University](https://www.universite-paris-saclay.fr/en) now), [transcript](../files/transcript_of_math.pdf)
 - *2017.09 - 2021.06*, BEng Information Engineering at [Xi’an Jiaotong University](http://eie.xjtu.edu.cn/en/index.htm).
 
 # 📝 Publications 
